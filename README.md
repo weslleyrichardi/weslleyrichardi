@@ -2,7 +2,7 @@
   <br>
   <img src="https://github.com/weslleyrichardi/Projeto-Networking/blob/main/style/avatar.png" alt="foto-perfil" width="120"/>
   <br>
-  Weslley Richardi
+  Weslley Richard
   <br>
 </h1>
 <p align="center">"A distância entre o sonho e a realidade chama-se disciplina."</p>
