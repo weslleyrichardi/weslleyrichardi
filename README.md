@@ -10,8 +10,7 @@
 
 <!-- Aperta windowns + . -->
 - 📚 Hoje estudo Front-end
-- 📖 Cursando, tecnico em Redes de computadores
-- 😁 Prononouns: Ele/Dele
+- 📖 Curso tecnico em Redes de computadores - 3° Período
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weslleyrichardi&show_icons=true&theme=radical"/>
