@@ -1,7 +1,7 @@
 <main style="background-color: 0d1117; color: white;">
   <h1 align="center">
     <br>
-    <img src="https://avatars.githubusercontent.com/u/117620005?v=4" alt="foto-perfil" width="120"/>
+    <img style="border-radius: 100%;" src="https://avatars.githubusercontent.com/u/117620005?v=4" alt="foto-perfil" width="120"/>
     <br>
     Weslley Richard
     <br>
