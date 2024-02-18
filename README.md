@@ -1,3 +1,9 @@
+<style>
+  div > img {
+      height: 30px;
+      border-radius: 50px;
+  }
+</style>
 <main style="background-color: 0d1117; color: white;">
   <h1 align="center">
     <br>
