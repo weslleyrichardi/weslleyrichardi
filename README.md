@@ -51,8 +51,8 @@
     </ul>
     <br>
     <div id="datas">
-      <img height="200px" width="430px" src="https://github-readme-stats.vercel.app/api?username=weslleyrichardi&show_icons=true&theme=radical"/>
-      <img height="200px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleyrichardi&layout=compact&theme=radical">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weslleyrichardi&show_icons=true&theme=radical"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleyrichardi&layout=compact&theme=radical">
     </div>
     <h2>Estou Estudando:</h2>
     <div style="display: inline_block;"><br>
