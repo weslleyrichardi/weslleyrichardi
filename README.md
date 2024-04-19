@@ -4,8 +4,8 @@
   <br>
 
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&random=false&width=435&lines=Helo%2C+my+name+is+Weslley+Richard!;I+am+17+years+old;I+study+computer+network;I'm+a+web+developer)
-
-  <h1/>
+<h1/>
+  
 <!-- Aperta windowns + . -->
 - 📚 Hoje estudo Front-end
 - 📖 Curso tecnico em Redes de computadores - 3° Período
