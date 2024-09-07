@@ -16,7 +16,7 @@
 </div>
 
 ## Tecnologias já utilizadas:
-<div align="center"><br>
+<div align="center" justfy="center"><br>
   <img  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
@@ -32,7 +32,17 @@
   <img  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" />
   <img  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  <img  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+  <img  height="40" width="50" src="https://media.licdn.com/dms/image/v2/D4D0BAQHHWDGY6I72yA/company-logo_200_200/company-logo_200_200/0/1666361739445/argo_solues_tecnolgicas_logo?e=1733961600&v=beta&t=BiOqhd9zqImGtkpJj5FDot39jsFnW28ehNRumuhTPZ4" />
+</div>
+
+## Formação técnica e profissional:
+<div align="center"> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img   height="50" src="https://instagram.fjdo10-1.fna.fbcdn.net/v/t51.2885-19/443842538_1431720784150220_8619511321974947950_n.jpg?_nc_ht=instagram.fjdo10-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=f3LIPKroj3QQ7kNvgEw7GAF&edm=AEhyXUkBAAAA&ccb=7-5&oh=00_AYBuSD7va8zLyjRrFqbFkQenWjO-ehMDgVSTzWfDgdXGMw&oe=66E240C2&_nc_sid=8f1549"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img   height="50" src="https://cdn.worldvectorlogo.com/logos/rocketseat.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img   height="50" src="https://cdn.worldvectorlogo.com/logos/udemy-wordmark-1.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img   height="50" src="https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo-branca.png" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img   height="35" src="https://cdn.freebiesupply.com/logos/large/2x/coursera-logo-png-transparent.png" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img   height="70" src="https://github.com/weslleyrichardi/logos/blob/main/logos/Argo-Tech-41-1.png" />
 </div>
 
 ##
