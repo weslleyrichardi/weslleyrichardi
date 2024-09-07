@@ -7,7 +7,7 @@
 <h1/>
   
 <!-- Aperta windowns + . -->
-- 📚 Hoje estudo Front-end
+- 📚 Full-Stack Developer, UI/UX Designer
 - 📖 Curso tecnico em Redes de computadores - 3° Período
 
 <div align="center">
@@ -15,22 +15,33 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleyrichardi&layout=compact&theme=radical">
 </div>
 
-## Estou Estudando:
-<div style="display: inline_block;"><br>
-  <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img alt="Weslley-njs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img alt="Weslley-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="Weslley-ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+## Tecnologias já utilizadas:
+<div align="center"><br>
+  <img  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+  <img  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img  height="40" width="50" src="https://avatars.githubusercontent.com/u/74943865?s=200&v=4" />
+  <img  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" />
+  <img  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" />
+  <img  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+  <img  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 </div>
 
 ##
 <div align="center">
   <h3>----Redes sociais----</h3>
-  <a href="https://instagram.com/dev.weslleyrichard" target="_blank"><img height="30px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/dev.weslleyrichard" target="_blank"><img height="30" src="https://img.shields.io/badge/Instagram-E4505F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/weslley-richard/" target="_blank"><img height="30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://discord.gg/Hm47gvEpQQ" target="_blank"><img height="30px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://www.youtube.com/@dev.weslleyrichard" target="_blank"><img height="30px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-thebadge&logo=youtube&logoColor=white"/></a>
 </div>
+
+<h5>"Logo haverá mais repositorios, assim que eu concluir alguns projeto eu faço deploy 😄"</h5>
