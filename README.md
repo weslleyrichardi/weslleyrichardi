@@ -32,7 +32,6 @@
   <img  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" />
   <img  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  <img  height="40" width="50" src="https://media.licdn.com/dms/image/v2/D4D0BAQHHWDGY6I72yA/company-logo_200_200/company-logo_200_200/0/1666361739445/argo_solues_tecnolgicas_logo?e=1733961600&v=beta&t=BiOqhd9zqImGtkpJj5FDot39jsFnW28ehNRumuhTPZ4" />
 </div>
 
 ## Formação técnica e profissional:
