@@ -43,6 +43,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img   height="50" src="https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo-branca.png" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img   height="35" src="https://cdn.freebiesupply.com/logos/large/2x/coursera-logo-png-transparent.png" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img   height="70" src="https://github.com/weslleyrichardi/logos/blob/main/logos/Argo-Tech-41-1.png" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img   height="70" src="https://i.pinimg.com/originals/49/72/6e/49726e65f6b35c2e8e366a16c0734fb7.png" />
 </div>
 
 ##
