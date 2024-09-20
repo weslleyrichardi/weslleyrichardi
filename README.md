@@ -36,7 +36,7 @@
 
 ## Formação técnica e profissional:
 <div align="center"> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img   height="50" src="https://instagram.fjdo10-1.fna.fbcdn.net/v/t51.2885-19/443842538_1431720784150220_8619511321974947950_n.jpg?_nc_ht=instagram.fjdo10-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=f3LIPKroj3QQ7kNvgEw7GAF&edm=AEhyXUkBAAAA&ccb=7-5&oh=00_AYBuSD7va8zLyjRrFqbFkQenWjO-ehMDgVSTzWfDgdXGMw&oe=66E240C2&_nc_sid=8f1549"/>
+  <!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img   height="50" src="https://instagram.fjdo10-1.fna.fbcdn.net/v/t51.2885-19/443842538_1431720784150220_8619511321974947950_n.jpg?_nc_ht=instagram.fjdo10-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=f3LIPKroj3QQ7kNvgEw7GAF&edm=AEhyXUkBAAAA&ccb=7-5&oh=00_AYBuSD7va8zLyjRrFqbFkQenWjO-ehMDgVSTzWfDgdXGMw&oe=66E240C2&_nc_sid=8f1549"/>-->
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img   height="50" src="https://cdn.worldvectorlogo.com/logos/rocketseat.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img   height="50" src="https://cdn.worldvectorlogo.com/logos/udemy-wordmark-1.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img   height="50" src="https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo-branca.png" />
