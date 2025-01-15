@@ -7,8 +7,9 @@
 <h1/>
   
 <!-- Aperta windowns + . -->
+- 💼 Colaborador na [Argo Tech](https://grupoargo.tech/)
 - 📚 Full-Stack Developer, UI/UX Designer
-- 📖 Curso tecnico em Redes de computadores - 3° Período
+- 📖 Técnico em Redes de computadores
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weslleyrichardi&show_icons=true&theme=radical"/>
