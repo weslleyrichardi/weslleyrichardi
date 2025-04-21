@@ -43,7 +43,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img   height="50" src="https://cdn.worldvectorlogo.com/logos/udemy-wordmark-1.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img   height="35" src="https://cdn.freebiesupply.com/logos/large/2x/coursera-logo-png-transparent.png" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img   height="70" src="https://i.pinimg.com/originals/49/72/6e/49726e65f6b35c2e8e366a16c0734fb7.png" /><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img   height="70" src="https://media.licdn.com/dms/image/v2/D4D0BAQHHWDGY6I72yA/company-logo_200_200/company-logo_200_200/0/1666361739445/argo_solues_tecnolgicas_logo?e=1744848000&v=beta&t=QHrD9Rm-ZfHtkPwZgs9r53cexWngivmICYMDpFoc3io" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img   height="70" src="https://grupoargo.tech/wp-content/uploads/2024/03/Argo-Tech-41-1.png" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img   height="70" src="https://scontent.fjdo10-1.fna.fbcdn.net/v/t39.30808-6/277761561_456047692948233_1197592005625330804_n.png?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=bu9dzKtASVoQ7kNvwFOPyxM&_nc_oc=AdnTZSXT7w4BXNsraGh3nTFW-h6JN-kitdWFqjl-Oc8lGSRh-uBGKw4iRlSxYK44eMYtG8Sosj1cN_zhPKEtHfiJ&_nc_zt=23&_nc_ht=scontent.fjdo10-1.fna&_nc_gid=BUUvSMEShRzeZwbMKJY3Nw&oh=00_AfHKRxZ4o9QHpMEOKhqGJqyfoWi5iKEhVVkSj_B41lOzJA&oe=6804358A" />
 </div>
 
