@@ -3,7 +3,7 @@
   <img src="https://avatars.githubusercontent.com/u/117620005?v=4" alt="foto-perfil" width="120"/>
   <br>
 
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&random=false&width=435&lines=Helo%2C+my+name+is+Weslley+Richard!;I+am+17+years+old;I+study+computer+network;I'm+a+web+developer)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+Call+me+Richard.;I+am+graduating+as+a+software+engineer.;I+am+a+trained+computer+network+technician.)](https://git.io/typing-svg)
 </div>
 
 - 💼 Working at [Argo Tech](https://grupoargo.tech/)
