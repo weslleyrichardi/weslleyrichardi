@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4D16AQE1dE6WmGYNIg/profile-displaybackgroundimage-shrink_200_800/B4DZ8.RwSrGkAQ-/0/1783456270015?e=1785974400&v=beta&t=iS2ZGVDfMOEIbPX2KlytLIYnt2uLNhU6n7riFQ0HmzU">
 
-[HIRE ME - CONTRATEME](mailto:weslley.richard21@gmail.com)
+[HIRE ME - CONTRATEME](https://mailto:weslley.richard21@gmail.com/)
 </div>
 <br/>
 
